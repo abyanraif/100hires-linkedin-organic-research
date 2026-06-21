@@ -22,13 +22,15 @@
 - LinkedIn: https://www.linkedin.com/in/rosssimmonds/
 - Other channels: https://foundationinc.co/
 - Why included: Strong voice on content distribution, repurposing, and audience growth—useful for understanding how LinkedIn content can support B2B SaaS reach and pipeline.
-- Materials collected: -3 LinkedIn posts
+- Materials collected: - 3 LinkedIn posts
+  - 1 long-form research note
 
 ## Mandy McEwen
 - LinkedIn: https://www.linkedin.com/in/mandymcewen/
 - Other channels: https://modgirlmarketing.com/
 - Why included: Consultant focused on LinkedIn strategy, personal branding, and social selling, with practical guidance relevant to B2B SaaS teams and founders.
-- Materials collected: -3 LinkedIn posts
+- Materials collected: - 3 LinkedIn posts
+  - 1 long-form research note
 
 ## Tas Bober
 - LinkedIn: ttps://www.linkedin.com/in/tasbober/
