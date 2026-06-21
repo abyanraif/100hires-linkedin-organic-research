@@ -34,28 +34,28 @@
 - LinkedIn: ttps://www.linkedin.com/in/tasbober/
 - Other channels: https://www.theaceupmyspencer.com/
 - Why included: ghostwriter and LinkedIn content strategist whose work is useful for studying post structure, founder voice, and consistent organic content systems.
-- Materials collected:
+- Materials collected:   Included as a secondary expert for future collection based on relevance to LinkedIn growth, content strategy, or B2B audience development.
 
 ## Austin Belcak
 - LinkedIn: https://www.linkedin.com/in/austinbelcak/
 - Other channels: https://cultivatedculture.com/
 - Why included: Strong operator in LinkedIn-led audience growth, content hooks, and personal brand building with frameworks that can be adapted for B2B SaaS.
-- Materials collected:
+- Materials collected: Included as a secondary expert for future collection based on relevance to LinkedIn growth, content strategy, or B2B audience development.
 
 ## Richard van der Blom
 - LinkedIn: https://www.linkedin.com/in/richardvanderblom/
 - Other channels: https://justconnecting.nl/
 - Why included: ne of the best-known researchers on LinkedIn platform behavior and algorithm changes, useful for understanding how content distribution works on LinkedIn.
-- Materials collected:
+- Materials collected: Included as a secondary expert for future collection based on relevance to LinkedIn growth, content strategy, or B2B audience development.
 
 ## Lara Acosta
 - LinkedIn: https://www.linkedin.com/in/lara-acosta/
 - Other channels: https://www.laraacosta.com/
 - Why included: Creator and ghostwriter focused on LinkedIn growth, audience building, and content systems with practical examples of high-performing post formats.
-- Materials collected:
+- Materials collected: Included as a secondary expert for future collection based on relevance to LinkedIn growth, content strategy, or B2B audience development.
 
 ## Katelyn Bourgoin
 - LinkedIn: https://www.linkedin.com/in/katelynbourgoin/
 - Other channels: https://www.customercamp.co/
 - Why included: Messaging and buyer psychology expert whose content is useful for understanding hooks, audience pain points, and content angles that resonate in B2B contexts.
-- Materials collected:
+- Materials collected: Included as a secondary expert for future collection based on relevance to LinkedIn growth, content strategy, or B2B audience development.
