@@ -5,28 +5,28 @@
 - Other channels: https://www.justinwelsh.me/
 - Why included: Strong practitioner of founder-led LinkedIn content, audience building, and content systems relevant to B2B SaaS.
 - Materials collected:
-- -3 LinkedIn posts
+- 3 LinkedIn posts
 
 ## Dave Gerhardt
 - LinkedIn: https://www.linkedin.com/in/davegerhardt/
 - Other channels: https://www.exitfive.com/
 - Why included: B2B marketing operator focused on founder-led content, brand marketing, demand creation, and practical LinkedIn communication for SaaS.
 - Materials collected:
-- -3 LinkedIn posts
+- 3 LinkedIn posts
 
 ## Chris Walker
 - LinkedIn: https://www.linkedin.com/in/chriswalker171/
 - Other channels: https://www.refinelabs.com/ 
 - Why included: Demand generation leader whose content frequently covers B2B messaging, content distribution, and organic growth ideas relevant to SaaS marketing. 
 - Materials collected:
-- -3 LinkedIn posts
+- 3 LinkedIn posts
 
 ## Ross Simmonds
 - LinkedIn: https://www.linkedin.com/in/rosssimmonds/
 - Other channels: https://foundationinc.co/
 - Why included: Strong voice on content distribution, repurposing, and audience growth—useful for understanding how LinkedIn content can support B2B SaaS reach and pipeline.
 - Materials collected:
-- - 3 LinkedIn posts
+- 3 LinkedIn posts
   - 1 long-form research note
 
 ## Mandy McEwen
@@ -34,7 +34,7 @@
 - Other channels: https://modgirlmarketing.com/
 - Why included: Consultant focused on LinkedIn strategy, personal branding, and social selling, with practical guidance relevant to B2B SaaS teams and founders.
 - Materials collected:
-- - 3 LinkedIn posts
+- 3 LinkedIn posts
   - 1 long-form research note
 
 ## Tas Bober
