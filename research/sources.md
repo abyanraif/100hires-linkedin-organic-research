@@ -7,9 +7,9 @@
 - Materials collected:
 
 ## Dave Gerhardt
-- LinkedIn:
-- Other channels:
-- Why included:
+- LinkedIn: https://www.linkedin.com/in/davegerhardt/
+- Other channels: https://www.exitfive.com/
+- Why included: B2B marketing operator focused on founder-led content, brand marketing, demand creation, and practical LinkedIn communication for SaaS.
 - Materials collected:
 
 ## Chris Walker
