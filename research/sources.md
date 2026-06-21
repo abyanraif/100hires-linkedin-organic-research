@@ -1,9 +1,9 @@
 # Sources
 
 ## Justin Welsh
-- LinkedIn:
-- Other channels:
-- Why included:
+- LinkedIn: https://www.linkedin.com/in/justinwelsh/
+- Other channels: https://www.justinwelsh.me/
+- Why included: Strong practitioner of founder-led LinkedIn content, audience building, and content systems relevant to B2B SaaS.
 - Materials collected:
 
 ## Dave Gerhardt
