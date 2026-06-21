@@ -1,6 +1,6 @@
 # Post 1
 - Date: 4 days ago
-- URL: [paste https://www.linkedin.com/posts/mandymcewen_linkedins-video-reach-is-pretty-weak-sauce-activity-7472660515064950784-zBN-?utm_source=share&utm_medium=member_desktop&rcm=ACoAABNnNbsBtSA-me_2hAEexc6JLi2H5oIV0uo
+- URL: https://www.linkedin.com/posts/mandymcewen_linkedins-video-reach-is-pretty-weak-sauce-activity-7472660515064950784-zBN-?utm_source=share&utm_medium=member_desktop&rcm=ACoAABNnNbsBtSA-me_2hAEexc6JLi2H5oIV0uo
 - Main topic: Why B2B companies should use more video in content and sales
 - Notes: This post argues that B2B companies underuse video and overcomplicate its production. It is highly relevant because it connects LinkedIn video, YouTube, sales enablement, repurposing, and buyer trust into a practical content strategy for B2B companies.
 - Post text: 
