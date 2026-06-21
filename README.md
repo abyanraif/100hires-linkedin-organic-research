@@ -1,67 +1,73 @@
-#LinkedIn Organic Content Strategy for B2B SaaS
+# LinkedIn organic content research for B2B SaaS
 
 This repository contains a research project for 100Hires focused on LinkedIn organic content strategy for B2B SaaS.
 
-Goal
+## Project objective
 
-The goal of this project is to build a research base of practitioners, posts, and long-form materials that can later support a practical playbook for LinkedIn-led organic growth in B2B SaaS.
+The objective of this project is to build a research base that can support a future playbook for LinkedIn-led organic growth in B2B SaaS. Rather than collecting content at random, the goal is to identify practitioners whose work is consistently relevant to founder-led content, social selling, demand generation, and content distribution.
 
-Research focus
+## Research scope
 
-This project focuses on experts whose work is relevant to:
+This project focuses on experts and materials relevant to:
 
-LinkedIn organic content strategy
-founder-led and executive-led content
-B2B demand generation and pipeline creation
-content distribution and repurposing
-social selling and outbound support
-messaging, positioning, and audience building
-video, YouTube, and adjacent organic growth channels relevant to SaaS
-Selected experts
+- LinkedIn organic content strategy
+- founder-led and executive-led content
+- B2B demand generation and pipeline creation
+- social selling and outbound support
+- content distribution and repurposing
+- messaging, positioning, and audience building
+- video, YouTube, and adjacent organic growth channels relevant to SaaS
 
-The research set currently includes practitioners and operators such as:
+## Selected experts
 
-Justin Welsh
-Dave Gerhardt
-Chris Walker
-Ross Simmonds
-Mandy McEwen
+The current research set includes practitioners and operators such as:
 
-Additional experts are listed in research/sources.md.
+- Justin Welsh
+- Dave Gerhardt
+- Chris Walker
+- Ross Simmonds
+- Mandy McEwen
 
-Repository structure
-research/sources.md
-Master list of experts, profile links, short annotations, and collection status.
-research/linkedin-posts/
-LinkedIn posts collected and organized by expert.
-research/youtube-transcripts/
-Long-form materials, transcripts, or cleaned notes from videos, podcasts, and interviews.
-research/other/
-Any additional notes or supporting material relevant to the topic.
-Collection approach
+Additional experts are listed in `research/sources.md`.
 
-I selected experts who actively publish content related to B2B SaaS growth, LinkedIn strategy, content distribution, demand generation, social selling, and messaging.
+## Repository structure
 
-I prioritized:
+- `research/sources.md`  
+  Master list of selected experts, profile links, annotations, and collection status.
 
-recent public LinkedIn posts
-content with clear tactical or strategic relevance to B2B SaaS marketing
-material that could support a future playbook, not just generic motivational content
-practitioners who appear to actively work in or advise B2B SaaS, GTM, or content-led growth
-Current materials collected
+- `research/linkedin-posts/`  
+  LinkedIn post collections organized by expert.
 
-So far, the repository includes LinkedIn post collections from:
+- `research/youtube-transcripts/`  
+  Long-form research notes and transcript-style summaries from videos, interviews, and talks.
 
-Justin Welsh
-Dave Gerhardt
-Chris Walker
-Ross Simmonds
-Mandy McEwen
+- `research/other/`  
+  Additional materials that may be useful for later synthesis.
+
+## Collection approach
+
+The experts in this repository were selected because they actively publish on topics that overlap with B2B SaaS growth, LinkedIn strategy, content systems, GTM thinking, social selling, and organic distribution.
+
+The collection process prioritized:
+- recent public LinkedIn posts
+- content with clear relevance to B2B SaaS marketing or GTM
+- material that could support a practical playbook later, not just general motivation or personal branding advice
+- practitioners who appear to actively work in, advise, or influence B2B SaaS growth and content strategy
+
+## Current materials collected
+
+The repository currently includes LinkedIn post collections from:
+
+- Justin Welsh
+- Dave Gerhardt
+- Chris Walker
+- Ross Simmonds
+- Mandy McEwen
 
 It also includes selected long-form research notes for Ross Simmonds and Mandy McEwen.
 
-These materials were selected to capture different parts of the B2B SaaS organic growth landscape, including content systems, social selling, GTM alignment, distribution strategy, video content, and messaging.
+Together, these materials cover several recurring themes in B2B SaaS organic growth, including content systems, founder-led distribution, social selling, GTM alignment, video strategy, and messaging.
 
-Notes
+## Notes
 
-This repository is intended as a research base rather than a finished playbook. The emphasis is on collecting high-signal examples from credible operators and organizing them in a way that supports future synthesis and execution.
+This repository is intended to function as a research base rather than a finished playbook. The emphasis is on collecting high-signal examples from credible operators and organizing them in a way that makes later synthesis easier.
