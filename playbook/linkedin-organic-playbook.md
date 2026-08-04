@@ -128,7 +128,64 @@ Use these insights to refine content pillars, posting frequency, and messaging i
 - Ross Simmonds – Continuously optimize content strategy using performance data and distribution insights.
 - Justin Welsh – Build repeatable systems by identifying what consistently works and improving over time.
 ## 6. Where Experts Disagree
+### Example 1: Content consistency vs. content diversification
 
+**Justin Welsh**
+
+Justin Welsh argues that creators should consistently repeat a small number of core ideas. Rather than constantly chasing originality, he believes repeating the same themes from different angles strengthens brand positioning and audience recognition.
+
+**Source**
+- Justin Welsh, "The content game isn't about being original..." (10 months ago)
+
+**Ross Simmonds**
+
+Ross Simmonds emphasizes expanding content distribution across multiple channels such as YouTube, SEO, and Reddit. His approach focuses on maximizing reach by adapting content to different formats and platforms.
+
+**Source**
+- Ross Simmonds, "YouTube is the most underrated opportunity for B2B brands..." (4 days ago)
+- Ross Simmonds, "SaaS marketers had a plan. Then Reddit showed up." (2 weeks ago)
+
+**My position**
+
+I believe both approaches are complementary rather than mutually exclusive. A company should first establish a small number of consistent messaging themes (Justin Welsh), then distribute those themes across multiple channels (Ross Simmonds). Consistency should come before expansion because distributing inconsistent messaging only amplifies confusion.
+### Example 2: AI-assisted content vs. AI-generated content
+
+**Mandy McEwen**
+
+Mandy McEwen argues that AI is a valuable content assistant when it is trained using the creator's own voice, previous content, and real business materials. She believes generic AI content is usually caused by poor prompting rather than the technology itself.
+
+**Source**
+- Mandy McEwen, "AI isn't making your content generic. Your lazy prompts are." (4 weeks ago)
+
+**Chris Walker**
+
+Chris Walker strongly criticizes AI-generated engagement on LinkedIn, arguing that automated comments reduce content quality, damage trust, and create meaningless interactions.
+
+**Source**
+- Chris Walker, "60%+ of the comments on LinkedIn are now automated AI slop." (1 month ago)
+
+**My position**
+
+I agree with both experts but draw a clear distinction between content creation and audience engagement. AI can improve writing efficiency when guided by authentic human expertise, but it should not replace genuine interaction with other people. I recommend using AI to support drafting and editing while keeping comments, discussions, and relationship-building fully human.
+### Example 3: Community engagement vs. social selling
+
+**Dave Gerhardt**
+
+Dave Gerhardt emphasizes building a community by consistently creating valuable content and fostering long-term relationships. He believes success is reflected not only in metrics but also in qualitative signals such as audience feedback, trust, and active participation.
+
+**Source**
+- Dave Gerhardt, "When I say we're building the top community for B2B marketing professionals..." (1 week ago)
+
+**Mandy McEwen**
+
+Mandy McEwen positions LinkedIn as a social selling platform where visibility, profile optimization, meaningful comments, and direct messaging help warm up outbound sales efforts.
+
+**Source**
+- Mandy McEwen, "This is how sales teams get an 11.87% reply rate from cold outreach." (1 week ago)
+
+**My position**
+
+I believe community building should come before social selling. A strong community creates trust and credibility, making social selling significantly more effective. Sales conversations should be a natural outcome of consistently delivering value rather than the primary objective of LinkedIn activity.
 ## 7. What I Rejected and Why
 
 ## 8. My Original Ideas
