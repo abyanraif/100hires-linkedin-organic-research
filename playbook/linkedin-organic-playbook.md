@@ -258,21 +258,21 @@ In contrast, experts such as Justin Welsh, Dave Gerhardt, Ross Simmonds, and Man
 
 For someone whose primary goal is improving LinkedIn organic performance, I believe those experts provide more immediately actionable guidance. Chris Walker remains a valuable resource for broader GTM and business strategy, but I would not recommend him as a primary reference for this specific topic.
 ## References
-e recommendations in this playbook are based on research collected in this repository.
+The recommendations in this playbook are based on research collected in this repository.
 
 ### LinkedIn Posts
 
-- Justin Welsh – `research/linkedin-posts/justin-welsh.md`
-- Dave Gerhardt – `research/linkedin-posts/dave-gerhardt.md`
-- Chris Walker – `research/linkedin-posts/chris-walker.md`
-- Ross Simmonds – `research/linkedin-posts/ross-simmonds.md`
-- Mandy McEwen – `research/linkedin-posts/mandy-mcewen.md`
+- [Justin Welsh](../research/linkedin-posts/justin-welsh.md)
+- [Dave Gerhardt](../research/linkedin-posts/dave-gerhardt.md)
+- [Chris Walker](../research/linkedin-posts/chris-walker.md)
+- [Ross Simmonds](../research/linkedin-posts/ross-simmonds.md)
+- [Mandy McEwen](../research/linkedin-posts/mandy-mcewen.md)
 
-### Long-form Materials 
+### Long-form Materials
 
-- Ross Simmonds – `research/youtube-transcripts/ross-simmonds.md`
-- Mandy McEwen – `research/youtube-transcripts/mandy-mcewen.md`
+- [Ross Simmonds](../research/youtube-transcripts/ross-simmonds.md)
+- [Mandy McEwen](../research/youtube-transcripts/mandy-mcewen.md)
 
 ### Research Index
 
-- `research/sources.md`
+- [Research Sources](../research/sources.md)
