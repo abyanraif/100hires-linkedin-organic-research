@@ -36,8 +36,10 @@ Identify:
 - The questions they frequently ask
 Document these insights before deciding what content to publish.
 **Source**
-- Dave Gerhardt – LinkedIn post on communicating from the audience's perspective
-- Justin Welsh – LinkedIn posts on focusing on a core message rather than creating random content
+- Dave Gerhardt, "Most people think they're good communicators."  
+  https://www.linkedin.com/posts/davegerhardt_most-people-think-theyre-good-communicators-activity-7443262639448797184-p22Z (4 months ago)
+- Justin Welsh, "Most people think they're good communicators."  
+  https://www.linkedin.com/posts/justinwelsh_most-people-think-theyre-good-communicators-activity-7443262639448797184-p22Z (4 months ago)
 ### Step 2. Build content pillars
 Create 3–5 content pillars that align with your audience's interests and your company's expertise.
 Each pillar should solve a specific business problem or answer recurring questions from your target audience.
@@ -50,9 +52,10 @@ Example content pillars:
 Avoid publishing unrelated topics simply to increase posting frequency.
 
 **Source**
-- Justin Welsh – Focus on a small number of recurring core ideas rather than constantly creating new themes.
-- Ross Simmonds – Build content around topics that can be distributed and repurposed across multiple channels.
-
+- Justin Welsh, "The content game isn't about being original."  
+  https://www.linkedin.com/posts/justinwelsh_the-content-game-isnt-about-being-original-share-7362677565330759681-XlKq (11 months ago)
+- Ross Simmonds, "YouTube is the most underrated opportunity for B2B brands right now."  
+  https://www.linkedin.com/posts/rosssimmonds_youtube-videomarketing-aeo-share-7472653367916322818-NYR6 (1 month ago)
 ### Step 3. Create a content calendar
 Plan content at least one month in advance using a content calendar.
 
@@ -68,8 +71,10 @@ For each post, define:
 Planning content in advance helps maintain consistency while reducing the pressure to create ideas daily.
 
 **Source**
-- Justin Welsh – Build repeatable content systems instead of relying on daily inspiration.
-- Ross Simmonds – Develop a content strategy that supports consistent publishing and long-term distribution.
+- Justin Welsh, "The content game isn't about being original."  
+  https://www.linkedin.com/posts/justinwelsh_the-content-game-isnt-about-being-original-share-7362677565330759681-XlKq/ (11 months ago)
+-  Ross Simmonds, "YouTube is the most under invested in channel for B2B SaaS today."  
+  https://www.linkedin.com/posts/rosssimmonds_ (1 month ago)
 ### Step 4. Write high-value LinkedIn posts
 Create content that educates, solves problems, or shares practical experience rather than simply promoting products or services.
 
@@ -84,9 +89,14 @@ Prioritize:
 Avoid writing content solely for engagement or algorithmic reach.
 
 **Source**
-- Dave Gerhardt – Create content from the audience's perspective and focus on what is useful to the reader.
-- Justin Welsh – Repeat core ideas from different angles instead of constantly chasing originality.
-- Mandy McEwen – Use authentic, human content that builds trust rather than overly polished marketing messages.
+- Dave Gerhardt, "Most people think they're good communicators."  
+  https://www.linkedin.com/posts/davegerhardt_most-people-think-theyre-good-communicators-activity-7443262639448797184-p22Z (3months ago)
+
+- Justin Welsh, "The content game isn't about being original."  
+  https://www.linkedin.com/posts/justinwelsh_the-content-game-isnt-about-being-original-share-7362677565330759681-XlKq/ (11 months ago)
+
+- Mandy McEwen, "AI isn't making your content generic. Your lazy prompts are."  
+  https://www.linkedin.com/posts/mandymcewen_ai-isnt-making-your-content-generic-your-ugcPost-7463644637854068736-kpcC/ (2 months ago)
 ### Step 5. Publish and engage
 Publish content consistently according to the content calendar.
 
@@ -95,8 +105,10 @@ After publishing, actively engage with your audience by responding to comments, 
 Prioritize meaningful conversations over vanity metrics such as likes or impressions.
 
 **Source**
-- Mandy McEwen – Build relationships through authentic conversations and social selling rather than simply broadcasting content.
-- Dave Gerhardt – Focus on creating content that encourages discussion and provides value to the audience.
+Mandy McEwen, "This is how sales teams get an 11.87% reply rate from cold outreach."  
+  https://www.linkedin.com/posts/mandymcewen_this-is-how-sales-teams-get-an-1187-reply-activity-7469772732180709376-hb44/ (1 month ago)
+- Dave Gerhardt, "When I say 'we're building the top community for B2B marketing professionals'..."  
+  https://www.linkedin.com/posts/davegerhardt_when-i-say-were-building-the-top-community-share-7470181467667714048-HfjF/ (1 month ago)
 ### Step 6. Repurpose content across channels
 Repurpose high-performing LinkedIn content into multiple formats to extend its reach and lifespan.
 
@@ -109,8 +121,10 @@ Examples include:
 Repurposing should adapt the content to the platform rather than simply copying and pasting it.
 
 **Source**
-- Ross Simmonds – Maximize content ROI through strategic content distribution and repurposing.
-- Mandy McEwen – Repurpose video content into multiple social media assets instead of creating everything from scratch.
+- Ross Simmonds, "YouTube is the most underrated opportunity for B2B brands right now."  
+  https://www.linkedin.com/posts/rosssimmonds_youtube-videomarketing-aeo-share-7472653367916322818-NYR6/ (1 month ago)
+- Mandy McEwen, "LinkedIn's video reach is pretty weak sauce right now, but it's still driving revenue."  
+  https://www.linkedin.com/posts/mandymcewen_linkedins-video-reach-is-pretty-weak-sauce-activity-7472660515064950784-zBN-/ (1 month ago)
 ### Step 7. Measure performance and improve
 Review content performance every month and continuously improve the strategy based on audience response.
 
@@ -124,9 +138,12 @@ Track both quantitative and qualitative metrics, including:
 Use these insights to refine content pillars, posting frequency, and messaging instead of relying on assumptions.
 
 **Source**
-- Dave Gerhardt – Measure content based on audience response and usefulness rather than assumptions.
-- Ross Simmonds – Continuously optimize content strategy using performance data and distribution insights.
-- Justin Welsh – Build repeatable systems by identifying what consistently works and improving over time.
+- Dave Gerhardt, "When I say 'we're building the top community for B2B marketing professionals'..."  
+  https://www.linkedin.com/posts/davegerhardt_when-i-say-were-building-the-top-community-share-7470181467667714048-HfjF/ (1 month ago)
+- Ross Simmonds, "YouTube is the most underrated opportunity for B2B brands right now."  
+  https://www.linkedin.com/posts/rosssimmonds_youtube-videomarketing-aeo-share-7472653367916322818-NYR6/ (1 month ago)
+- Justin Welsh, "The content game isn't about being original."  
+  https://www.linkedin.com/posts/justinwelsh_the-content-game-isnt-about-being-original-share-7362677565330759681-XlKq/ (11 months ago)
 ## 6. Where Experts Disagree
 ### Example 1: Content consistency vs. content diversification
 
@@ -135,15 +152,18 @@ Use these insights to refine content pillars, posting frequency, and messaging i
 Justin Welsh argues that creators should consistently repeat a small number of core ideas. Rather than constantly chasing originality, he believes repeating the same themes from different angles strengthens brand positioning and audience recognition.
 
 **Source**
-- Justin Welsh, "The content game isn't about being original..." (10 months ago)
+- Justin Welsh, "The content game isn't about being original."  
+  https://www.linkedin.com/posts/justinwelsh_the-content-game-isnt-about-being-original-share-7362677565330759681-XlKq/ (11 months ago)
 
 **Ross Simmonds**
 
 Ross Simmonds emphasizes expanding content distribution across multiple channels such as YouTube, SEO, and Reddit. His approach focuses on maximizing reach by adapting content to different formats and platforms.
 
 **Source**
-- Ross Simmonds, "YouTube is the most underrated opportunity for B2B brands..." (4 days ago)
-- Ross Simmonds, "SaaS marketers had a plan. Then Reddit showed up." (2 weeks ago)
+- Ross Simmonds, "YouTube is the most underrated opportunity for B2B brands right now."  
+  https://www.linkedin.com/posts/rosssimmonds_youtube-videomarketing-aeo-share-7472653367916322818-NYR6/ (1 month ago)
+- Ross Simmonds, "SaaS marketers had a plan. Then Reddit showed up."  
+  https://www.linkedin.com/posts/rosssimmonds_saas-marketers-had-a-plan-then-reddit-showed-activity-7467613516431118336-8UvA/ (2 months ago)
 
 **My position**
 
@@ -155,15 +175,16 @@ I believe both approaches are complementary rather than mutually exclusive. A co
 Mandy McEwen argues that AI is a valuable content assistant when it is trained using the creator's own voice, previous content, and real business materials. She believes generic AI content is usually caused by poor prompting rather than the technology itself.
 
 **Source**
-- Mandy McEwen, "AI isn't making your content generic. Your lazy prompts are." (4 weeks ago)
+- Mandy McEwen, "AI isn't making your content generic. Your lazy prompts are."  
+  https://www.linkedin.com/posts/mandymcewen_ai-isnt-making-your-content-generic-your-ugcPost-7463644637854068736-kpcC/ (2 months ago)
 
 **Chris Walker**
 
 Chris Walker strongly criticizes AI-generated engagement on LinkedIn, arguing that automated comments reduce content quality, damage trust, and create meaningless interactions.
 
 **Source**
-- Chris Walker, "60%+ of the comments on LinkedIn are now automated AI slop." (1 month ago)
-
+Chris Walker, "60%+ of the comments on LinkedIn are now automated AI slop."  
+  https://www.linkedin.com/posts/chriswalker171_60-of-the-comments-on-linkedin-are-now-activity-7459338667778740224-FTYr/ (2 months ago)
 **My position**
 
 I agree with both experts but draw a clear distinction between content creation and audience engagement. AI can improve writing efficiency when guided by authentic human expertise, but it should not replace genuine interaction with other people. I recommend using AI to support drafting and editing while keeping comments, discussions, and relationship-building fully human.
@@ -174,15 +195,15 @@ I agree with both experts but draw a clear distinction between content creation 
 Dave Gerhardt emphasizes building a community by consistently creating valuable content and fostering long-term relationships. He believes success is reflected not only in metrics but also in qualitative signals such as audience feedback, trust, and active participation.
 
 **Source**
-- Dave Gerhardt, "When I say we're building the top community for B2B marketing professionals..." (1 week ago)
-
+- Dave Gerhardt, "When I say 'we're building the top community for B2B marketing professionals' this is what I mean."  
+  https://www.linkedin.com/posts/davegerhardt_when-i-say-were-building-the-top-community-share-7470181467667714048-HfjF/ (1 month ago)
 **Mandy McEwen**
 
 Mandy McEwen positions LinkedIn as a social selling platform where visibility, profile optimization, meaningful comments, and direct messaging help warm up outbound sales efforts.
 
 **Source**
-- Mandy McEwen, "This is how sales teams get an 11.87% reply rate from cold outreach." (1 week ago)
-
+- Mandy McEwen, "This is how sales teams get an 11.87% reply rate from cold outreach."  
+  https://www.linkedin.com/posts/mandymcewen_this-is-how-sales-teams-get-an-1187-reply-activity-7469772732180709376-hb44/ (1 month ago)
 **My position**
 
 I believe community building should come before social selling. A strong community creates trust and credibility, making social selling significantly more effective. Sales conversations should be a natural outcome of consistently delivering value rather than the primary objective of LinkedIn activity.
