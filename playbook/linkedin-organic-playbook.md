@@ -268,7 +268,7 @@ e recommendations in this playbook are based on research collected in this repos
 - Ross Simmonds – `research/linkedin-posts/ross-simmonds.md`
 - Mandy McEwen – `research/linkedin-posts/mandy-mcewen.md`
 
-### Long-form Materials
+### Long-form Materials 
 
 - Ross Simmonds – `research/youtube-transcripts/ross-simmonds.md`
 - Mandy McEwen – `research/youtube-transcripts/mandy-mcewen.md`
