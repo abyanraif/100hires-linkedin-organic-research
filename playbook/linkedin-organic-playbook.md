@@ -48,6 +48,7 @@ Example content pillars:
 - Founder experiences
 - Lessons learned
 Avoid publishing unrelated topics simply to increase posting frequency.
+
 **Source**
 - Justin Welsh – Focus on a small number of recurring core ideas rather than constantly creating new themes.
 - Ross Simmonds – Build content around topics that can be distributed and repurposed across multiple channels.
