@@ -2,32 +2,24 @@
 
 ## 1. Objective
 This SOP provides a practical framework for building a LinkedIn organic content strategy for B2B SaaS companies.
-
 The objective is to help marketing teams, founders, and subject matter experts consistently create and distribute LinkedIn content that builds brand awareness, establishes authority, generates qualified demand, and supports long-term pipeline growth.
-
 This playbook synthesizes research from experienced B2B SaaS operators and content practitioners while adding independent analysis where recommendations differ.
-
 ## 2. Scope
 This playbook is intended for:
-
 - B2B SaaS startups and scale-ups
 - Founder-led companies
 - Marketing and demand generation teams
 - Content marketers responsible for LinkedIn organic growth
-
 This playbook focuses on building an organic LinkedIn content system supported by content repurposing and distribution. It does not cover paid advertising, outbound sales execution, or product marketing in detail.
 ## 3. Assumptions
 This playbook assumes that:
-
 - The company sells a B2B SaaS product.
 - LinkedIn is one of its primary organic marketing channels.
 - The company has at least one subject matter expert (such as a founder, executive, or marketer) who can consistently contribute insights.
 - Organic content is treated as a long-term demand generation strategy rather than a short-term lead generation tactic.
 ## 4. Success Metrics
 The success of this playbook should be measured using business outcomes rather than vanity metrics.
-
 Key success metrics include:
-
 - Consistent publishing cadence
 - Growth in qualified profile visits
 - Increase in meaningful comments and conversations
@@ -35,40 +27,31 @@ Key success metrics include:
 - Increased website traffic from LinkedIn
 - Pipeline contribution from organic LinkedIn content over time
 ## 5. Standard Operating Procedure
-
 ### Step 1. Define the target audience
 Before creating any content, clearly define who the content is intended for.
-
 Identify:
 - The primary audience (e.g., founders, marketers, sales leaders, RevOps professionals)
 - Their biggest pain points
 - Their business goals
 - The questions they frequently ask
-
 Document these insights before deciding what content to publish.
-
 **Source**
 - Dave Gerhardt – LinkedIn post on communicating from the audience's perspective
 - Justin Welsh – LinkedIn posts on focusing on a core message rather than creating random content
 ### Step 2. Build content pillars
 Create 3–5 content pillars that align with your audience's interests and your company's expertise.
-
 Each pillar should solve a specific business problem or answer recurring questions from your target audience.
-
 Example content pillars:
 - Industry insights
 - Customer challenges
 - Product education
 - Founder experiences
 - Lessons learned
-
 Avoid publishing unrelated topics simply to increase posting frequency.
-
 **Source**
 - Justin Welsh – Focus on a small number of recurring core ideas rather than constantly creating new themes.
 - Ross Simmonds – Build content around topics that can be distributed and repurposed across multiple channels.
 
-Ja
 ### Step 3. Create a content calendar
 Plan content at least one month in advance using a content calendar.
 
