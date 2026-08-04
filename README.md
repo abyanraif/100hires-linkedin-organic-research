@@ -1,10 +1,17 @@
-# LinkedIn organic content research for B2B SaaS
+# LinkedIn Organic Content Research for B2B SaaS
 
 This repository contains a research project for 100Hires focused on LinkedIn organic content strategy for B2B SaaS.
 
 ## Project objective
 
-The objective of this project is to build a research base that can support a future playbook for LinkedIn-led organic growth in B2B SaaS. Rather than collecting content at random, the goal is to identify practitioners whose work is consistently relevant to founder-led content, social selling, demand generation, and content distribution.
+The objective of this project is to build a research base that supports a practical playbook for LinkedIn-led organic growth in B2B SaaS. Rather than collecting content at random, the goal is to identify practitioners whose work is consistently relevant to founder-led content, social selling, demand generation, and content distribution.
+
+## Deliverables
+
+This repository contains two main deliverables:
+
+1. A research base of curated LinkedIn posts and long-form materials from experienced B2B SaaS practitioners.
+2. A practical Standard Operating Procedure (SOP) that synthesizes the research into an actionable LinkedIn organic content playbook.
 
 ## Research scope
 
@@ -44,11 +51,15 @@ Additional experts are listed in `research/sources.md`.
 - `research/other/`  
   Additional materials that may be useful for later synthesis.
 
+- `playbook/linkedin-organic-playbook.md`  
+  A practical SOP/playbook that translates the research into an actionable LinkedIn organic content strategy, including expert comparisons, rejected ideas, original recommendations, and implementation guidance.
+
 ## Collection approach
 
 The experts in this repository were selected because they actively publish on topics that overlap with B2B SaaS growth, LinkedIn strategy, content systems, GTM thinking, social selling, and organic distribution.
 
 The collection process prioritized:
+
 - recent public LinkedIn posts
 - content with clear relevance to B2B SaaS marketing or GTM
 - material that could support a practical playbook later, not just general motivation or personal branding advice
@@ -64,10 +75,12 @@ The repository currently includes LinkedIn post collections from:
 - Ross Simmonds
 - Mandy McEwen
 
-It also includes selected long-form research notes for Ross Simmonds and Mandy McEwen.
+It also includes selected long-form research notes for Ross Simmonds and Mandy McEwen, along with a complete LinkedIn Organic Content Strategy playbook.
 
 Together, these materials cover several recurring themes in B2B SaaS organic growth, including content systems, founder-led distribution, social selling, GTM alignment, video strategy, and messaging.
 
 ## Notes
 
-This repository is intended to function as a research base rather than a finished playbook. The emphasis is on collecting high-signal examples from credible operators and organizing them in a way that makes later synthesis easier.
+This repository began as a research project focused on identifying high-quality practitioners and collecting relevant materials on LinkedIn organic strategy for B2B SaaS.
+
+Based on that research, it now also includes a practical SOP/playbook that synthesizes the collected materials into an actionable framework while documenting expert disagreements, independent judgment, rejected ideas, original recommendations, and implementation guidance.
