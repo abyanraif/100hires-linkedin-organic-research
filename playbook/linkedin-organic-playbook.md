@@ -1,7 +1,11 @@
 # Standard Operating Procedure (SOP): LinkedIn Organic Content Strategy for B2B SaaS
 
 ## 1. Objective
+This SOP provides a practical framework for building a LinkedIn organic content strategy for B2B SaaS companies.
 
+The objective is to help marketing teams, founders, and subject matter experts consistently create and distribute LinkedIn content that builds brand awareness, establishes authority, generates qualified demand, and supports long-term pipeline growth.
+
+This playbook synthesizes research from experienced B2B SaaS operators and content practitioners while adding independent analysis where recommendations differ.
 ## 2. Scope
 
 ## 3. Assumptions
