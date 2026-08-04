@@ -187,11 +187,92 @@ Mandy McEwen positions LinkedIn as a social selling platform where visibility, p
 
 I believe community building should come before social selling. A strong community creates trust and credibility, making social selling significantly more effective. Sales conversations should be a natural outcome of consistently delivering value rather than the primary objective of LinkedIn activity.
 ## 7. What I Rejected and Why
+### Rejected Idea 1: Prioritizing vanity metrics over business outcomes
 
+Some experts discuss impressions, reach, or engagement as indicators of content performance. While these metrics can provide useful signals, I chose not to include them as primary success metrics in this playbook.
+
+Instead, I prioritize business-oriented outcomes such as qualified conversations, inbound leads, website traffic, and pipeline contribution because they are more closely aligned with B2B SaaS growth objectives.
+
+**Reason**
+
+High engagement does not necessarily translate into business impact. A post can generate thousands of reactions while producing little influence on pipeline or customer acquisition. For this reason, vanity metrics should be treated as supporting indicators rather than primary goals.
+
+---
+
+### Rejected Idea 2: Creating content solely to maximize algorithm reach
+
+Some experts discuss tactics that improve visibility, such as optimizing for platform reach or increasing posting frequency. While these tactics can improve exposure, I chose not to make algorithm optimization a core principle of this playbook.
+
+Instead, I prioritize audience value, message consistency, and trust. Sustainable B2B SaaS growth depends on producing content that helps the right audience, not simply generating more impressions.
+
+**Reason**
+
+Platform algorithms change frequently, but useful content remains valuable over time. Building a strategy around audience needs is more sustainable than building one around algorithm behavior.
+
+---
+
+### Rejected Idea 3: Expanding to every available content channel too early
+
+Ross Simmonds strongly advocates expanding content distribution across multiple channels such as YouTube, Reddit, blogs, and search. While I agree that multi-channel distribution is valuable, I chose not to make it an early-stage priority in this playbook.
+
+Instead, I recommend first building a consistent and repeatable LinkedIn content system before expanding into additional channels.
+
+**Reason**
+
+Many early-stage B2B SaaS companies have limited time and resources. Expanding across multiple channels before establishing a strong LinkedIn workflow may reduce consistency and content quality. Once a repeatable process is in place, successful LinkedIn content can then be repurposed for YouTube, blogs, newsletters, and other platforms.
 ## 8. My Original Ideas
+### Idea: Create a Monthly Content Feedback Loop
 
+None of the experts explicitly recommend conducting a structured monthly review of audience questions and sales conversations to generate future LinkedIn content.
+
+I propose creating a monthly "Content Feedback Loop" involving marketing, sales, and customer success teams. Once a month, these teams should review:
+
+- Frequently asked sales questions
+- Customer objections
+- Product feedback
+- Support tickets
+- High-performing LinkedIn posts
+- High-performing website pages
+
+The insights collected should be used to update content pillars and build the next month's content calendar.
+
+**Why I think it could work**
+
+Many content strategies rely primarily on marketing teams for content ideation. By incorporating insights from sales and customer-facing teams, the company can consistently create content that addresses real customer needs rather than assumptions. This approach also strengthens alignment between marketing, sales, and customer success while keeping content relevant as customer challenges evolve.
 ## 9. Weaknesses of This Playbook
+This playbook has several limitations.
 
+First, it is primarily based on insights from a small group of experienced B2B SaaS practitioners rather than academic research or large-scale empirical studies. Their recommendations reflect practical experience but may not apply universally.
+
+Second, the playbook assumes that companies have the internal resources to consistently produce high-quality content. Smaller teams with limited time or budget may struggle to execute every step.
+
+Third, the recommendations focus primarily on LinkedIn organic content. They do not address other important growth channels such as paid advertising, email marketing, product-led growth, or partnerships.
+
+Finally, several recommendations have not been independently tested within the same company or under controlled conditions. While they are supported by practitioner experience, their effectiveness will vary depending on the company's industry, audience, product maturity, and competitive landscape.
 ## 10. Who I Would NOT Recommend Following and Why
+Among the experts I researched, I would be least likely to recommend Chris Walker as a primary source for someone looking to build a LinkedIn organic content strategy for B2B SaaS.
 
+This does not mean his content lacks value. Chris Walker shares strong opinions on go-to-market strategy, revenue operations, SaaS growth, and industry trends. However, much of the material I collected focused on broader business strategy rather than practical guidance for building a repeatable LinkedIn organic content system.
+
+In contrast, experts such as Justin Welsh, Dave Gerhardt, Ross Simmonds, and Mandy McEwen consistently provide tactical advice on content creation, distribution, audience engagement, and social selling that can be directly translated into an operational playbook.
+
+For someone whose primary goal is improving LinkedIn organic performance, I believe those experts provide more immediately actionable guidance. Chris Walker remains a valuable resource for broader GTM and business strategy, but I would not recommend him as a primary reference for this specific topic.
 ## References
+e recommendations in this playbook are based on research collected in this repository.
+
+### LinkedIn Posts
+
+- Justin Welsh – `research/linkedin-posts/justin-welsh.md`
+- Dave Gerhardt – `research/linkedin-posts/dave-gerhardt.md`
+- Chris Walker – `research/linkedin-posts/chris-walker.md`
+- Ross Simmonds – `research/linkedin-posts/ross-simmonds.md`
+- Mandy McEwen – `research/linkedin-posts/mandy-mcewen.md`
+
+### Long-form Materials
+
+- Ross Simmonds – `research/youtube-transcripts/ross-simmonds.md`
+- Mandy McEwen – `research/youtube-transcripts/mandy-mcewen.md`
+
+### Research Index
+
+- `research/sources.md`
